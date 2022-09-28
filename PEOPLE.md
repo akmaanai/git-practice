@@ -1,1 +1,1 @@
-Haskell Curry
+Akmaanai Zhumalieva
